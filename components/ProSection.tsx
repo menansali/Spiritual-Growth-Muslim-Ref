@@ -55,7 +55,7 @@ const ProSection: React.FC = () => {
                
                <h3 className="text-brand font-bold text-sm uppercase tracking-wide">Lifetime Access</h3>
                <div className="mt-4 flex items-baseline gap-2">
-                 <span className="text-5xl font-bold text-slate-900 tracking-tight">$29.99</span>
+                 <span className="text-5xl font-bold text-slate-900 tracking-tight">$39.99</span>
                  <span className="text-slate-500 font-medium">/ one-time</span>
                </div>
                <p className="text-slate-400 text-sm mt-3 font-medium">Pay once, own it forever. Support the developer directly.</p>
@@ -78,7 +78,7 @@ const ProSection: React.FC = () => {
                <div className="mt-6 flex justify-center gap-4 text-xs font-medium text-slate-400">
                   <span>Monthly: $1.99</span>
                   <span className="text-slate-200">•</span>
-                  <span>Yearly: $11.99</span>
+                  <span>Yearly: $9.99 (7-Day Trial)</span>
                </div>
             </div>
           </div>
